@@ -5,6 +5,8 @@
 }
 
 body{
+    height: fit-content;
+    width: fit-content;
     background: #fda085;
     color: rgb(226, 83, 83);
     min-height: 100vh;
