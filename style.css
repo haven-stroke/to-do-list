@@ -5,9 +5,10 @@
 }
 
 body{
-    background: linear-gradient(120deg,#e7c248, #fda085);
-    color: white;
+    background: #fda085;
+    color: rgb(226, 83, 83);
     min-height: 100vh;
+    min-width: 90vh;
 }
 
 header{
